@@ -26,7 +26,6 @@ v18.18.0
 
 
 
-После того как вы убедились, что Git и Node.js работают вам нужно определиться с каким препроцессором вы будете работать на проекте: SASS или Less
 
 ### SASS
 1. Клонируйте репозиторий `git clone git@github.com:htmlacademy/html2-basic-template.git`
