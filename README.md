@@ -27,7 +27,7 @@ v18.18.0
 
 
 
-### SASS
+SASS
 1. Клонируйте репозиторий `git clone git@github.com:htmlacademy/html2-basic-template.git`
 2. Установите зависимости проекта `npm ci`
 3. Начните работу `npm start` // должен запуститься браузер
